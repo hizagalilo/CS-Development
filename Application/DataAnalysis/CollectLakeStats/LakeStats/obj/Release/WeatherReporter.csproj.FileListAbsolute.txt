@@ -1,0 +1,9 @@
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\bin\Release\LakeStats.exe.config
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\bin\Release\LakeStats.exe
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\bin\Release\LakeStats.pdb
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Release\WeatherReporter.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Release\LakeStats.exe
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Release\LakeStats.pdb
+C:\lakestats\LakeStats.exe.config
+C:\lakestats\LakeStats.exe
+C:\lakestats\LakeStats.pdb

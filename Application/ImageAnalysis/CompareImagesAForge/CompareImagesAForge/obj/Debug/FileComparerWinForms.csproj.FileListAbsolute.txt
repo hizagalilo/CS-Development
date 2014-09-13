@@ -1,0 +1,26 @@
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.exe.config
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.exe
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.pdb
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.Form1.resources
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.Properties.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.exe
+c:\users\david\documents\visual studio 2013\Projects\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.pdb
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.exe.config
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.exe
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.pdb
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.exe
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.pdb
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.Form1.resources
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.Properties.Resources.resources
+C:\Users\David\Desktop\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files Code Clinic 1\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.exe.config
+C:\Users\David\Desktop\Exercise Files Code Clinic 1\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.exe
+C:\Users\David\Desktop\Exercise Files Code Clinic 1\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.pdb
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\FileComparerWinForms\FileComparerWinForms\bin\Debug\FileComparerWinForms.exe.config
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.exe
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\FileComparerWinForms\FileComparerWinForms\obj\Debug\FileComparerWinForms.pdb
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\FileComparerWinForms\FileComparerWinForms\bin\Debug\CompareImagesStrings.exe.config
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\FileComparerWinForms\FileComparerWinForms\bin\Debug\CompareImagesAsStrings.exe.config

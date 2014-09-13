@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\bin\Debug\LakeStats.exe.config
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Debug\LakeStats.exe
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Debug\LakeStats.pdb
+C:\Users\david\Desktop\LakeStatsConsoleApp\LakeStats\bin\Debug\LakeStats.exe.config
+C:\Users\david\Desktop\LakeStatsConsoleApp\LakeStats\obj\Debug\LakeStats.exe
+C:\Users\david\Desktop\LakeStatsConsoleApp\LakeStats\obj\Debug\LakeStats.pdb
+C:\Users\david\Desktop\LakeStatsConsoleApp\LakeStats\bin\Debug\LakeStats.exe
+C:\Users\david\Desktop\LakeStatsConsoleApp\LakeStats\bin\Debug\LakeStats.pdb
+C:\Users\david\Desktop\LakeStatsConsoleApp\LakeStats\obj\Debug\LakeStats.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\CollectLakeStats\LakeStats\bin\Debug\LakeStats.exe.config
+C:\Users\david\Desktop\CollectLakeStats\LakeStats\obj\Debug\LakeStats.exe
+C:\Users\david\Desktop\CollectLakeStats\LakeStats\obj\Debug\LakeStats.pdb

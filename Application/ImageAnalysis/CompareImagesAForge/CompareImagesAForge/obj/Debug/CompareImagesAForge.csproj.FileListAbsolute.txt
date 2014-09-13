@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAsStrings\bin\Debug\CompareImagesAForge.exe.config
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\CompareImagesAForge.exe.config
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\CompareImagesAForge.exe
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\CompareImagesAForge.pdb
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\obj\Debug\FileComparerWinForms.Form1.resources
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.Properties.Resources.resources
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.exe
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.pdb
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.dll
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Imaging.dll
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Math.dll
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.xml
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Imaging.xml
+C:\Users\David\Desktop\Exercise Files Code Clinic 2\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Math.xml

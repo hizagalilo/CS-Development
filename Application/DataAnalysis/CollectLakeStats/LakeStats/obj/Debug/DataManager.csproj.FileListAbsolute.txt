@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe.config
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.pdb
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.exe
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.pdb

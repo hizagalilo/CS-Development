@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Release\DataManager.exe.config
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Release\DataManager.exe
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Release\DataManager.pdb
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Release\DataManager.exe
+c:\users\david\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Release\DataManager.pdb

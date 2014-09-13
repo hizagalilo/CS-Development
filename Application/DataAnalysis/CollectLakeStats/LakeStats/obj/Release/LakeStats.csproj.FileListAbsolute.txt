@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Exercise Files\CollectLakeStats\LakeStats\bin\Release\LakeStats.exe.config
+C:\Users\David\Desktop\Exercise Files\CollectLakeStats\LakeStats\obj\Release\LakeStats.exe
+C:\Users\David\Desktop\Exercise Files\CollectLakeStats\LakeStats\obj\Release\LakeStats.pdb
+C:\Users\David\Desktop\Exercise Files\CollectLakeStats\LakeStats\bin\Release\LakeStats.exe
+C:\Users\David\Desktop\Exercise Files\CollectLakeStats\LakeStats\bin\Release\LakeStats.pdb
+C:\Users\David\Desktop\Exercise Files\CollectLakeStats\LakeStats\obj\Release\LakeStats.csprojResolveAssemblyReference.cache
+C:\Users\David\lakestats\LakeStats.exe.config

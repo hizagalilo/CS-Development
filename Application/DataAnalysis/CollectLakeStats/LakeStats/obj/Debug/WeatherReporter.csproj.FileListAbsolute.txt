@@ -1,0 +1,12 @@
+C:\Users\David\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe.config
+C:\Users\David\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe
+C:\Users\David\documents\visual studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\David\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.exe
+C:\Users\David\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\David\documents\visual studio 2013\Projects\DataManager\DataManager\obj\Debug\WeatherReporter.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Debug\WeatherReporter.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\bin\Debug\LakeStats.exe.config
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\bin\Debug\LakeStats.exe
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\bin\Debug\LakeStats.pdb
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Debug\LakeStats.exe
+C:\Users\david\Desktop\PendOReilleWeatherDesktop\DataManager\obj\Debug\LakeStats.pdb
